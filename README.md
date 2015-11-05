@@ -1,1 +1,2 @@
 # backagain
+configuring on arch 
